@@ -5,7 +5,7 @@
 # Developed by Kourva
 # Source code: https://github.com/Kourva/AwesomeChatGPTBot
 
-# Standard library imports
+# Standard library import
 import json
 import os
 from datetime import datetime
